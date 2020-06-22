@@ -1,2 +1,2 @@
 # coursera-web-dev-assignment-solution.github.io
-[MODULE 3 SOLUTION](www.google.com)
+[MODULE 3 SOLUTION](index.html)
